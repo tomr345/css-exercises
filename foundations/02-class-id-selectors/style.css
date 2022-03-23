@@ -1,0 +1,21 @@
+.main {
+    background-color: #ff034a;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#two {
+    color: #0022ff;
+    font-size: 36px;
+}
+
+.separate {
+    background-color: #ff034a;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+    font-size: 24px;
+}
+
+#four {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #44ff00;
+}
