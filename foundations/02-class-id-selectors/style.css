@@ -1,6 +1,6 @@
 .main {
     background-color: #ff034a;
-    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
 #two {
@@ -9,8 +9,6 @@
 }
 
 .separate {
-    background-color: #ff034a;
-    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
     font-size: 24px;
 }
 
